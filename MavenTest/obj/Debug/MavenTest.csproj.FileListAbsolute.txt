@@ -1,0 +1,8 @@
+c:\users\jeferrie\documents\visual studio 2015\Projects\MavenTest\MavenTest\bin\Debug\MavenTest.exe.config
+c:\users\jeferrie\documents\visual studio 2015\Projects\MavenTest\MavenTest\bin\Debug\MavenTest.exe
+c:\users\jeferrie\documents\visual studio 2015\Projects\MavenTest\MavenTest\bin\Debug\MavenTest.pdb
+c:\users\jeferrie\documents\visual studio 2015\Projects\MavenTest\MavenTest\bin\Debug\System.Management.Automation.dll
+c:\users\jeferrie\documents\visual studio 2015\Projects\MavenTest\MavenTest\bin\Debug\Microsoft.Management.Infrastructure.dll
+c:\users\jeferrie\documents\visual studio 2015\Projects\MavenTest\MavenTest\obj\Debug\MavenTest.csprojResolveAssemblyReference.cache
+c:\users\jeferrie\documents\visual studio 2015\Projects\MavenTest\MavenTest\obj\Debug\MavenTest.exe
+c:\users\jeferrie\documents\visual studio 2015\Projects\MavenTest\MavenTest\obj\Debug\MavenTest.pdb
